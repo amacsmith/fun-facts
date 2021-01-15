@@ -1,6 +1,6 @@
 {
-    "name": "amac/fun-facts",
-    "description": "To get fun facts on the fly for fun fact friday",
+    "name": "amacsmith/fun-facts",
+    "description": "Fetch fun facts frequently on the fly for fun fact friday",
     "type": "package",
     "license": "MIT",
     "authors": [
