@@ -1,4 +1,4 @@
-# Chuck Norris Jokes
+# Fun Fact Friday Fact Fetcher
 
 fetch random fun facts.
 
